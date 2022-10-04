@@ -1,1 +1,0 @@
-pub type F64 = f64;

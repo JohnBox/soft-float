@@ -7,12 +7,13 @@ fn main() {
 
     println!("{c1}");
 
-
     let a2 = F64::from(2);
     let b2 = F64::from(6);
     let c2 = a2 / b2;
 
     println!("{c2}");
+
     assert_eq!(c1, c2);
+
     println!("Hello, world!");
 }
