@@ -1,0 +1,1 @@
+pub type F64 = softfp::F64;
